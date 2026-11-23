@@ -2,7 +2,9 @@
 
 A free Flutter template for a restaurant: browse the menu, order for delivery or pickup, follow the order status live, and book a table. Material 3, light and dark themes, **no third-party packages**.
 
-![Preview](preview.png)
+![App preview](docs/preview.svg)
+
+*Preview: design illustration of the screens, in the light theme. Run the app to see the real thing.*
 
 ## Features
 
